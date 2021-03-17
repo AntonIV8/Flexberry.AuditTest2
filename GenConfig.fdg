@@ -14,7 +14,7 @@
         "Build": false,
         "GitClone": false,
         "GitPush": false,
-        "GhPagesPush": true
+        "GhPagesPush": false
       },
       "ApacheCordova": {
         "CordovaProject": false,
@@ -27,7 +27,7 @@
       "Java": false
     },
     "Docker": {
-      "Dockerfile": true,
+      "Dockerfile": false,
       "DockerfileAutobuild": false,
       "DockerBuildShellScript": false,
       "DockerSwarm": false
